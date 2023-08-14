@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashdeepSharma1
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C and DSA
-- 💞️ I’m looking to collaborate with anyone who knows web development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html , CSS and data structures
+- 💞️ I’m looking to collaborate with anyone who needs
 - 📫 How to reach me -my insta id @yashdeep_sharma_1
 
 <!---
